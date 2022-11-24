@@ -1,5 +1,5 @@
 
-> Otevřít tuto stránku v aplikaci [https://steveruu.github.io/microbitzal/](https://steveruu.github.io/microbitzal/)
+> Otevřít tuto stránku v aplikaci [https://steveruu.github.io/pxt-dice/](https://steveruu.github.io/pxt-dice/)
 
 ## Použít jako rozšíření
 
@@ -8,7 +8,7 @@ Toto úložiště lze přidat jako **rozšíření** v aplikaci MakeCode.
 * otevřít [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klikněte na možnost **Nový projekt**
 * klikněte na možnost **Rozšíření** v nabídce s ozubeným kolem
-* vyhledat **https://github.com/steveruu/microbitzal** a importovat
+* vyhledat **https://github.com/steveruu/pxt-dice** a importovat
 
 ## Upravit tento projekt ![Odznak stavu sestavení](https://github.com/steveruu/microbitzal/workflows/MakeCode/badge.svg)
 
@@ -16,14 +16,14 @@ Slouží k úpravě tohoto úložiště v aplikaci MakeCode.
 
 * otevřít [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klikněte na možnost **Import** a poté na **Import adresy URL**
-* vložte **https://github.com/steveruu/microbitzal** a klikněte na možnost import
+* vložte **https://github.com/steveruu/pxt-dice** a klikněte na možnost import
 
 ## Náhled bloků
 
 Tento obrázek znázorňuje kód z Bloků od posledního potvrzení v hlavní verzi.
 Tento obrázek se může aktualizovat až za několik minut.
 
-![Vykreslený náhled bloků](https://github.com/steveruu/microbitzal/raw/master/.github/makecode/blocks.png)
+![Vykreslený náhled bloků](https://github.com/steveruu/pxt-dice/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (slouží k vyhledávání, vykreslování)
 
